@@ -1,37 +1,35 @@
-Sou um profissional DevOps altamente capacitado com habilidades diversificadas em automação, monitoramento, controle de configuração, soluções de nuvem, arquitetura de software, liderança de equipe e gerenciamento de projetos. 
+Oi! Sou um especialista DevOps apaixonado por tornar a vida mais fácil para as equipes de desenvolvimento e operações. Minhas habilidades? Bem, elas vão desde automação e controle de configuração até soluções em nuvem e arquitetura de software. Ainda dou uma força em liderar equipes e gerenciar projetos!
 
-Trabalho em colaboração com equipes de desenvolvimento e operações para aprimorar a entrega de software e garantir a disponibilidade, segurança e desempenho dos sistemas.
+Adoro trabalhar para aprimorar a entrega de software, garantindo sempre que nossos sistemas estejam disponíveis, seguros e com um desempenho exemplar. 
 
-Como arquiteto de software, projeto soluções escaláveis e altamente disponíveis que atendem às demandas dos negócios. Como engenheiro de software, colaboro na implementação de soluções e automação de processos para melhorar a eficiência e a qualidade do software. Como especialista em nuvem, implemento soluções de nuvem confiáveis e escaláveis que atendem às demandas dos negócios.
+Como arquiteto de software, eu elaboro soluções escaláveis que realmente resolvem os problemas do negócio. Mas não fico só no papel, também coloco a mão na massa para implementar essas soluções e automatizar processos, visando sempre a qualidade e eficiência do nosso software.
 
-Como líder de equipe, motivo e oriento meus colegas para alcançarmos objetivos comuns e atingirmos nossos objetivos de negócios. Como gerente de projetos, lidero iniciativas de software críticas para a organização, garantindo que elas sejam entregues com sucesso e dentro do prazo.
+Com uma mentalidade colaborativa e aprendizado contínuo, busco melhorar a cultura DevOps na organização. Para mim, entregar software de alta qualidade não é só um objetivo, é uma paixão!
 
-Com uma mentalidade colaborativa e de aprendizado contínuo, trabalho para fomentar a cultura DevOps na organização e garantir a entrega de software de alta qualidade. 
+Aqui vai um pequeno resumo do que eu domino em termos de ferramentas.
 
-Estou sempre em busca de novas oportunidades para aprender e crescer em minha carreira como arquiteto de software, engenheiro de software, especialista em nuvem, líder de equipe e gerente de projetos.
+Em bancos de dados, domino MongoDB, SQL Server, MYSQL, entre outros. 
 
-Tenho ampla experiência em ferramentas, linguagens de programação e banco de dados:
+No front-end, uso tecnologias como HTML 5, CSS3, Javascript, além de frameworks como ReactJS e Angular. 
 
-Banco de Dados: MongoDB, SQL Server, MYSQL, JPQL, Postgree, Vitess
+Para mobile e desktop, trabalho com React Native, Android, Swift, além de C++, C#, Java e Rust.
 
-Front-end: Single SPA, HTML 5, CSS3, Javascript, ReactJS, Angular, Bootstrap, Extjs, VUE Js, Ionic, Jquery, Flutter
+No back-end, utilizo Java, PHP, NodeJS, Spring Boot, Python, entre outros. Na nuvem, trabalho com Google Cloud, AWS e Digital Ocean. 
 
-Mobile: React Native, Android, Swift, Xamarin
+Para infraestrutura como código, uso Terraform, Ansible e Scripts Bash, entre outros. 
 
-Desktop: C++, C#, Java, ADVPL, Rust
+Também tenho experiência com mensagerias como RabbitMQ, Apache Kafka e AWS SQS, entre outros. 
 
-Back-end: Java, PHP, NodeJS, Spring Boot, Python, Laravel, Flask, NestJs
+Em DevOps, uso Git, Jenkins, Kubernetes, Docker, entre outros. 
 
-Cloud: Google Cloud, AWS, Digital Ocean
+Em observabilidade, uso Prometheus, Grafana, entre outros. 
 
-Infraestrutura como código: Terraform, Ansible, Scripts Bash
+Também posso ajudar com Cyber Security e pentest, com ferramentas como OWASP ZAP entre outras. Seja qual for a necessidade em segurança, posso contribuir para deixar tudo seguro.
 
-Mensagerias: RabbitMQ, Apache Kafka, aws sqs
+Para os padrões de desenvolvimento, confio no TDD, DDD, Clean Architecture, Solid, Hexagonal, Clean code, SAGA e mais alguns. 
 
-Devops: Git, Jenkins, CircleCI, Kubernetes, Docker, Sonarqube, ArgoCD, Docker, Docker swarm ... 
+E, por fim, em testes automatizados, eu uso Selenium, Cypress, Testes Unitários, Testes de Integração e Testes e2e integrados em pipelines de CI.
 
-Observabilidade: Prometheus, Grafana, Grafana Loki, Grafana Tempo Istio, Elastic Search, Log stash, Kibana, Elastic beats
+Ufa! Parece muito, mas pra mim, é só mais um dia na vida de um profissional DevOps!
 
-Padrões de desenvolvimento : TDD, DDD, Clean Architecture, Solid, Hexagonal, Clean code
-
-Testes automatizados: Selenium, Cypress, Testes Unitários, Testes de integração e Testes e2e integrados em pipelines de CI
+Estou sempre de olhos abertos para novas oportunidades e desafios, prontos para me ajudar a crescer e evoluir como profissional. Então, se precisar de um profissional DevOps, é só chamar!
